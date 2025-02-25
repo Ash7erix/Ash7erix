@@ -37,5 +37,7 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash7erix&label=Profile%20views&color=0e75b6&style=flat" alt="ash7erix" /> </p>
 ###
+
 <span clear="both">![snake gif](https://github.com/Ash7erix/Ash7erix/blob/output/github-snake-dark.svg)</span>
+
 ###
