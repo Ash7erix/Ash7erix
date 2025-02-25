@@ -27,17 +27,21 @@
 # 📊 GitHub Stats:
 <img align="right" height="250" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)
+  </div>
+  <div>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  </div>
+</div>
 
 <br>
 <br>
+
 
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash7erix&label=Profile%20views&color=0e75b6&style=flat" alt="ash7erix" /> </p>
-###
 
 <span clear="both">![snake gif](https://github.com/Ash7erix/Ash7erix/blob/output/github-snake-dark.svg)</span>
-
-###
