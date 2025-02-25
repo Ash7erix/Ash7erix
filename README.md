@@ -25,7 +25,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="right" height="300" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
+<img align="right" height="250" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
