@@ -29,10 +29,14 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)
+  
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)
+  
   </div>
   <div>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  
   </div>
 </div>
 
