@@ -25,8 +25,6 @@
 
 
 # 📊 GitHub Stats:
-<img align="right" height="250" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
-
 <div align="left"; justify-content: space-between;">
   <div>
   
