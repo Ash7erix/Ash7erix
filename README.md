@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Ash7erix/Ash7erix/blob/output/github-snake-dark.svg)
 
 ###
 
