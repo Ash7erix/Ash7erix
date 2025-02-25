@@ -27,7 +27,7 @@
 # 📊 GitHub Stats:
 <img align="right" height="250" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
 
-<div style="display: flex; justify-content: space-between;">
+<div align="left"; justify-content: space-between;">
   <div>
   
    ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)
