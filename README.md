@@ -7,12 +7,12 @@
 🔭 I’m currently working at [DecisionOpt](https://decisionopt.com/)<br><br>👯 I’m looking to collaborate on Operations Research<br><br>💬 Ask me about Operations Research and Decision Sciences<br><br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ash7erix) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshpatel24x7) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshpatel.in@gmail.com) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2311C300?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashutoshpatel_in) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?logo=LeetCode&logoColor=white)](https://www.leetcode.com/user3242pt)
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Ash7erix) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshpatel24x7) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshpatel.in@gmail.com) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2311C300?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashutoshpatel_in) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://www.leetcode.com/user3242pt)
 <br>
 <br>
 
