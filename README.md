@@ -26,15 +26,16 @@
 
 
 # 📊 GitHub Stats:
-<div align="left"; justify-content: space-between;">
-  <div>
-  
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false)
-    
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; height: 250px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ash7erix&theme=dark&hide_border=false" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
+  <div style="flex: 1; height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7erix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 </div>
+
+
 
 <br>
 <br>
