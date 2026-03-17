@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshpatel24x7) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshpatel.in@gmail.com) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311C300?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashutoshpatel_in) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://www.leetcode.com/user3242pt)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ash7erix/)
 <br>
 <br>
 
